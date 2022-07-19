@@ -1,0 +1,12 @@
+package com.example;
+
+
+
+@SpringBootTest
+class DemoRestApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

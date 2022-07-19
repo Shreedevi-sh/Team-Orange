@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\28March\OAuthAssignment\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+99338649.index
